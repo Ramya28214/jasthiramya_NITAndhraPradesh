@@ -1,0 +1,7 @@
+fastapi==0.111.1
+uvicorn==0.25.0
+nest-asyncio==1.5.8
+pyngrok==6.3.0
+requests==2.32.0
+nbformat==5.9.3
+nbconvert==7.6.2
